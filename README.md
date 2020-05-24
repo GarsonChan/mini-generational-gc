@@ -8,6 +8,7 @@ referenced from https://github.com/authorNari/minigc .
 ## Algorithms
 
 mark & sweep
+
 coping gc
 
 ## Usage
