@@ -13,5 +13,6 @@ coping gc
 
 ## Usage
 use "test" as a parameter of the main function to run execute "test" function.
+
 $ make all
 $ ./gc test
